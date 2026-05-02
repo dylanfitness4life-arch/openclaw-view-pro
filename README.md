@@ -105,4 +105,25 @@ Current focus areas:
 
 ## Author
 
-Built as part of an ongoing effort to design practical AI-native business systems using OpenClaw, Hermes-style orchestration, and persistent memory workflows.
+Built as part of an ongoing effort to design practical AI-native business systems using OpenClaw, Hermes-style orchestration, and persistent memory 
+## Example Execution (Simulated Run)
+
+Target: Local plumbing business with outdated website
+
+Step 1: System identifies business via scraping  
+Step 2: Website analyzed (UX, speed, messaging)  
+Step 3: Score assigned (e.g., 62/100)  
+Step 4: Issues detected:
+- No clear CTA
+- Poor mobile responsiveness
+- Weak SEO structure
+
+Step 5: Recommendations generated:
+- Add above-the-fold CTA
+- Improve page speed
+- Rewrite service pages for local SEO
+
+Step 6: Outreach draft created
+
+Outcome:
+Qualified lead generated with actionable improvements
